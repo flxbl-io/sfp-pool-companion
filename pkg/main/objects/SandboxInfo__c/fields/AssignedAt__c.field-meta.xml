@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AssignedAt__c</fullName>
+    <description>DateTime Stamp that Sandbox was assigned to an end user</description>
+    <externalId>false</externalId>
+    <label>AssignedAt</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>DateTime</type>
+</CustomField>

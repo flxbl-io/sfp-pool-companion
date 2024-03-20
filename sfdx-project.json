@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "pkg",
+      "default": true
+    }
+  ],
+  "name": "sfp-pool-companion",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
